@@ -1,13 +1,11 @@
 ---
 title: "Alternative Links"
 title2: "Geht das nicht auch weniger gruselig?"
-image: /themes/dimension/images//red_balloons.png
+image: /themes/dimension/images/red_balloons.png
 nav: 500
 
 ---
 
-
-## Alternative Links
 
 Das neue Merz-Kabinett vermag es wirklich, Menschen das Gruseln zu lehren, aber was müsste sich eigentlich ändern, um ein gutes Leben für alle zu schaffen?
 
@@ -53,17 +51,17 @@ Solidarität stärkt, heilt und macht glücklich! Nicht nur die Menschen, die si
 
 Zusammengenommen kann man aus diesen Wörtern zwei Sätze bilden:
 
-***Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Solidarität begegnen.***
+**Alle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen begabt und sollen einander im Geist der Solidarität begegnen.**
 
 Zwei Sätze, die die Vereinten Nationen dazu auserkoren haben, die Grundlage des Handelns auf der ganzen Welt zu sein. Sie bilden den ersten Artikel der allgemeinen Erklärung der Menschenrechte.
 
-***Diese Sätze stehen niemals im Einklang mit Faschismus, radikal rechtem Gedankengut, mit neoliberalem bis libertärem Raubtierkapitalismus und der perversen Anhäufung von Kapital.***
+**Diese Sätze stehen niemals im Einklang mit Faschismus, radikal rechtem Gedankengut, mit neoliberalem bis libertärem Raubtierkapitalismus und der perversen Anhäufung von Kapital.**
 
 Der Zustand im Land, in den USA, in der westlichen und restlichen Welt ist nicht mehr vereinbar mit diesem Artikel und der Zustand verschlimmert sich täglich.
 
-***Es ist beherzte, linke Politik, die dezidiert hinter den Menschenrechten steht. Es ist linke Politik, die den Menschen Freiheit und Gleichheit, Würde und Rechte zurückgeben kann, weil sie nicht nur vernünftig, sondern auch mit einem Gewissen ausgestattet ist und stets - auch international - solidarisch denkt.***
+**Es ist beherzte, linke Politik, die dezidiert hinter den Menschenrechten steht. Es ist linke Politik, die den Menschen Freiheit und Gleichheit, Würde und Rechte zurückgeben kann, weil sie nicht nur vernünftig, sondern auch mit einem Gewissen ausgestattet ist und stets - auch international - solidarisch denkt.**
 
-Die Linke ist nicht der "linke Rand", sie steht als einzige Partei wirklich hinter diesem ersten Artikel und hinter diesem humanistischen Ideal und erkämpft das Menschenrecht, jeder Schritt von dort nach rechts ist ein Schritt in die falsche Richtung, ein Schritt weg von den Menschenrechten, ein Schritt in Richtung Faschismus. Die selbsternannte, rechtsextreme *Alternative* im Bundestag ist keine, sie ist nur das gleiche - also rechte, neoliberale Politik - in extremster Form. Jeder Schritt in diese Richtung führt uns zurück in eine Welt, die nicht nur gruselig war, sie war der blanke Horror und das würde sie wieder werden. Nie wieder!
+Die Linke ist nicht der "linke Rand", sie steht als einzige Partei wirklich hinter diesem ersten Artikel und hinter diesem humanistischen Ideal und erkämpft das Menschenrecht, jeder Schritt von dort nach rechts ist ein Schritt in die falsche Richtung, ein Schritt weg von den Menschenrechten, ein Schritt in Richtung Faschismus. Die selbsternannte, rechtsextreme *Alternative* im Bundestag ist keine, sie ist nur das gleiche - also rechte, neoliberale Politik - in extremster Form. Jeder Schritt in diese Richtung führt uns zurück in eine Welt, die nicht nur gruselig war, sie war der blanke Horror und das würde sie wieder werden. **Nie wieder!**
 
 **Es gibt nur eine wahre Alternative:**
 

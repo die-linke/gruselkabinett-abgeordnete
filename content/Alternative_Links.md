@@ -35,7 +35,7 @@ Auch die Rechte müssten in einer wahren *Demokratie* in einem *Rechtsstaat* gle
 
 Politiker:innen, die für billigen Populismus Fakten gegen unwissenschaftliche Narrative eintauschen, die versuchen den Wählern nach dem Mund zu reden, um damit überhaupt erst die unsachliche Meinung der Wähler zu prägen oder diese Prägung zu verstärken, die verraten nicht nur die Werte der Aufklärung, die Wissenschaft und einen Grundsatz der Demokratie: den Wettbewerb um die beste Idee in der Arena der Debatte, nein, sie Stärken auch die in Gänze rechtsradikale AfD und gefährliche Verschwörungsmythen.
 
-Mythen über Migranten, über Muslime, über Juden, über Menschen mit seelischen Erkrankungen über den Klimawandel über verborgene Eliten (letztere sind in der Realität äußerst sichtbar) dürfen nicht genutzt werden, um damit Wahlkampf zu machen und die Menschen damit in die Arme des neue aufkeimenden Faschismus zu treiben. Diese Mythen müssen *ausgemerzt* werden. Sie sind gefährlich, zersetzen die Demokratie und spalten die Gesellschaft
+Mythen über Migranten, über Muslime, über Juden, über Menschen mit seelischen Erkrankungen über den Klimawandel über verborgene Eliten (letztere sind in der Realität äußerst sichtbar) dürfen nicht genutzt werden, um damit Wahlkampf zu machen und die Menschen damit in die Arme des neu aufkeimenden Faschismus zu treiben. Diese Mythen müssen *ausgemerzt* werden. Sie sind gefährlich, zersetzen die Demokratie und spalten die Gesellschaft
 
 ### Gewissen
 
@@ -63,6 +63,6 @@ Der Zustand im Land, in den USA, in der westlichen und restlichen Welt ist nicht
 
 Die Linke ist nicht der "linke Rand", sie steht als einzige Partei wirklich hinter diesem ersten Artikel und hinter diesem humanistischen Ideal und erkämpft das Menschenrecht, jeder Schritt von dort nach rechts ist ein Schritt in die falsche Richtung, ein Schritt weg von den Menschenrechten, ein Schritt in Richtung Faschismus. Die selbsternannte, rechtsextreme *Alternative* im Bundestag ist keine, sie ist nur das gleiche - also rechte, neoliberale Politik - in extremster Form. Jeder Schritt in diese Richtung führt uns zurück in eine Welt, die nicht nur gruselig war, sie war der blanke Horror und das würde sie wieder werden. **Nie wieder!**
 
-**Es gibt nur eine wahre Alternative:**
+**Es gibt nur eine wahre Alternative, die der [Hoffnung](https://me4f.de/pages/Hoffnung) eine Perspektive geben kann:**
 
 **[-> Alternative Links](https://www.die-linke.de/start/)**

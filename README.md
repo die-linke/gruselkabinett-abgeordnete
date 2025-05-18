@@ -3,7 +3,7 @@
 Dieses Projekt ist eine Sammlung von Skandalen, Aufregern, Kritikpunkten und anderen interessanten Informationen 
 über die Abgeordneten des Deutschen Bundestages bzw. im Merz-Kabinett.
 
-Pro Politiker gibt es eine Markdown-Datei im content-Ordner, die die Informationen enthält.
+Pro Politiker gibt es eine Markdown-Datei im `content`-Ordner, die die Informationen enthält.
 
 ## Markdown-Dateien
 
@@ -11,30 +11,65 @@ Die Dateien sind nach dem Muster `Vorname_Nachname.md` benannt und sollten folge
 
 ```markdown
 ---
-title: "Stefanie Hubig"
-title2: "Justiz und Verbraucherschutz"
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2025-05-05_Unterzeichnung_des_Koalitionsvertrages_der_21._Wahlperiode_des_Bundestages_by_Sandro_Halank%E2%80%93118.jpg/120px-2025-05-05_Unterzeichnung_des_Koalitionsvertrages_der_21._Wahlperiode_des_Bundestages_by_Sandro_Halank%E2%80%93118.jpg
-nav: 90
-party: SPD
+title: 'Friedrich Merz'
+title2: 'Bundeskanzler'
+image: https://www.bundestag.de/xyz/merz_friedrich.jpg
+nav: 20
+party: CDU
 ---
 
-## Hier kommt eine Kritikpunkt-Überschrift 
+Hier kommt (optional) ein kleiner Teaser Text, z.B.: Nach mehreren Anläufen hat er es nun doch noch geschafft ...
 
-Hier wird der Kritikpunkt beschrieben.
+### Hier kommt eine Kritikpunkt-Überschrift, z.B.: Die Brandmauer zur AfD
+
+Hier wird der Kritikpunkt beschrieben z.B. Merz hat sich in der Vergangenheit immer wieder gegen eine Zusammenarbeit mit der AfD ausgesprochen.
 
 ```
 
 ### Front Matter - Felder
 
-- title2: enthält normalerwesen den Titel des Ministeriums, in dem der Politiker tätig ist.
+- title: enthält den Namen des Politikers, z.B.: "Friedrich Merz"
+- title2: enthält normalerweise den Titel des Ministeriums bzw die Funktion, in dem oder in der der Politiker tätig ist.
+- image: URL zu einem Bild des Politikers, z.B.: https://www.bundestag.de/xyz/merz_friedrich.jpg
 - nav: Sortierung im Menü, 010-990, in 10er-Schritten, um Platz zu lassen.
 - party: Partei, optional.
 
+### Future function: "Quartett"-Index-Zahlen/Noten 
+(1-10, oder 1-5 Sterne oder Schulnoten) Kategorien und deren Namen: tbd., z.B.:
+- Lobbyismus
+- Klimawandel-Leugnung/Relativierung
+- Korruption
+- Lügen
+- Rassismus
+- Misogynie
+- Homophobie
+- Transfeindlichkeit
+- Kriegstreiberei
+- Verschwörungsmythen/Schwurbelei
+
+oder lustiger / alliterativer:
+- Populismus-Prüfsumme
+- Lobby-Leitzahl
+- Klima...Leugner-Kennzeichen
+- Korruptions-Kennzeichen
+- Lügen-Leitzahl
+- Rassismus-Register
+- Misogynie-Marker
+- Schwurbel-Summe
+- Faschismus-Freundlichkeit
+  ...
+- Grusel-Gesamtzahl
+
+oder so
+
+
 ---
 
-## Sammlung
+## Lose Info-Sammlung
 
-Gruselkabinett
+(kann eigentlich weg, lieber direkt die MD-Dateien befüllen)
+
+## Gruselkabinett
 
 Idee
 

@@ -6,7 +6,7 @@ nav: 110
 party: SPD
 ---
 
-## Soweit - so gut
+### Soweit - so gut
 
 Bisher gibt es hier keine größeren Skandale oder Aufreger. 
 

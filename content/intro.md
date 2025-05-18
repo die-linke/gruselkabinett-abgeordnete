@@ -6,10 +6,12 @@ nav: 10
 
 Wie gruselig ist das Merz-Kabinett wirklich?  Wie viel <span>Lobbyismus</span>, wie viele <span>Fake-News</span>, wie viel <span>Populismus</span> und wie viele <span>Leugner der Klimakrise</span> erwarten uns?   Starte <a href="#Friedrich_Merz">z.B. mit unserem Kanzler</a> und klicke dich durch das Horrorkabinett.
 
-Schau dir besonders interessante Fälle an, wie z.B. [Dorothee_Bär](#Dorothee_Baer).
+Schau dir besonders interessante Fälle an, wie z.B. [Dorothee Bär](#Dorothee_Baer) 
 
-Manche Abgeordneten schaffen es auch ganz ohne Ministerposten, Angst und Schrecken zu verbreiten, wie z.B. <a href="#Carsten_Linnemann">Carsten_Linnemann</a> mit seinem Register für Menschen in Psychotherapie.
-
+Manche Abgeordneten schaffen es auch ganz ohne Ministerposten, Angst und Schrecken zu verbreiten, wie z.B. 
+- [Carsten_Linnemann](#Carsten_linnemann) mit seinem Register für Menschen in Psychotherapie.
+- [Jens Spahn](#Jens_Spahn)
+- [Julia Klöckner](#Julia_Kloeckner)
 
 
 Aber vorsicht: **nicht erschrecken!**
